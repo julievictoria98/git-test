@@ -1,4 +1,4 @@
 console.log("hello");
 function idk() {
-    console.log("idk");
+    console.log("idk");//change
 }
